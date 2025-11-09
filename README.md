@@ -5,5 +5,5 @@
 <div align="center">
   <a href="https://jazzist.carrd.co/#">carrd</a>⠀⠀⠀
   <a href="https://genesistic.atabook.org/">ata</a>⠀⠀⠀
-  <a href="https://jazzist.carrd.co/#">main</a>⠀
+  <a href="https://github.com/genesistic">main</a>⠀
 </div>
